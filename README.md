@@ -1,1 +1,1 @@
-# RedditCollector
+# RedditGoblin
